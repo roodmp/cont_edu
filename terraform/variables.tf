@@ -26,3 +26,7 @@ variable "environment" {
   type = string
 }
 
+variable "web_server_count" {
+  type = number
+}
+
